@@ -1,4 +1,4 @@
-# Loch Messenger
+# Ness Messenger
 Simple LAN messenger built with C# and Windows Forms. Supports multiple clients, asynchronous message processing, and configurable server settings via a configuration file. Works with physical LAN or LAN emulators like Radmin VPN.
 
 [![Windows](https://img.shields.io/badge/platform-Windows-blue)]()
