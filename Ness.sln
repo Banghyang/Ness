@@ -3,14 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.37516.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NessClient", "NessClient\NessClient.csproj", "{BE41FAAB-C871-46B9-82C7-9C6672DA5286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NessServer", "NessServer\NessServer.csproj", "{8A9EA99C-4429-4049-D8A4-60A6C3F9A941}"
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NessClient", "NessClient\NessClient.csproj", "{8F57452E-53D3-74FF-523D-C2A6ABF22D04}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NessServer", "NessServer\NessServer.csproj", "{7AF2E1B5-ED16-673C-7262-A730BBA4ED53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,14 +18,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8F57452E-53D3-74FF-523D-C2A6ABF22D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F57452E-53D3-74FF-523D-C2A6ABF22D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F57452E-53D3-74FF-523D-C2A6ABF22D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F57452E-53D3-74FF-523D-C2A6ABF22D04}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7AF2E1B5-ED16-673C-7262-A730BBA4ED53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7AF2E1B5-ED16-673C-7262-A730BBA4ED53}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7AF2E1B5-ED16-673C-7262-A730BBA4ED53}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7AF2E1B5-ED16-673C-7262-A730BBA4ED53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE41FAAB-C871-46B9-82C7-9C6672DA5286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE41FAAB-C871-46B9-82C7-9C6672DA5286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE41FAAB-C871-46B9-82C7-9C6672DA5286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE41FAAB-C871-46B9-82C7-9C6672DA5286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A9EA99C-4429-4049-D8A4-60A6C3F9A941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A9EA99C-4429-4049-D8A4-60A6C3F9A941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A9EA99C-4429-4049-D8A4-60A6C3F9A941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A9EA99C-4429-4049-D8A4-60A6C3F9A941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
