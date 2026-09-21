@@ -31,7 +31,7 @@ Simple LAN messenger built with C# and Windows Forms. Supports multiple clients,
 - v2.2 - Customization(Dark/Light theme)
 
 ## Getting Started
-You can find and download latest release[here](https://github.com/Banghyang/Ness/releases)
+You can find and download latest release [here](https://github.com/Banghyang/Ness/releases)
 
 ## Why does this project exist?
 - **Primary goal**: — educational purposes, portfolio. 
